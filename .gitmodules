@@ -4,3 +4,4 @@
 [submodule "m3/de1-cahipun-contra-la-maquina"]
 	path = m3/de1-cahipun-contra-la-maquina
 	url = https://github.com/NataMellado/m3-desafio2
+	branch = main
