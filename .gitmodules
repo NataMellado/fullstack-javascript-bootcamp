@@ -1,3 +1,6 @@
 [submodule "m3/dg1-variables-y-operadores-aritmeticos"]
 	path = m3/dg1-variables-y-operadores-aritmeticos
 	url = https://github.com/NataMellado/m3-desafio1
+[submodule "m3/de1-cahipun-contra-la-maquina"]
+	path = m3/de1-cahipun-contra-la-maquina
+	url = https://github.com/NataMellado/m3-desafio2
