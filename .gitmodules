@@ -6,3 +6,7 @@
 	path = m3/de1-cahipun-contra-la-maquina
 	url = https://github.com/NataMellado/m3-desafio2
 	branch = main
+[submodule "m3/dg2-calculadora"]
+	path = m3/dg2-calculadora
+	url = https://github.com/NataMellado/m3-desafio3
+	branch = main
