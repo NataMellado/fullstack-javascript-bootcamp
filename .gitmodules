@@ -14,7 +14,3 @@
 	path = m3/de2-javascript-en-practica
 	url = https://github.com/NataMellado/de2-javascript-en-practica
 	branch = main
-[submodule "de3-arrays-objetos"]
-	path = de3-arrays-objetos
-	url = https://github.com/NataMellado/de3-arrays-objetos
-	branch = main
