@@ -1,0 +1,24 @@
+[submodule "m3-fundamentos-javascript/dg1-variables-y-operadores"]
+	path = m3-fundamentos-javascript/dg1-variables-y-operadores
+	url = https://github.com/NataMellado/m3-desafio1
+	branch = main
+[submodule "m3-fundamentos-javascript/de1-cachipun"]
+	path = m3-fundamentos-javascript/de1-cachipun
+	url = https://github.com/NataMellado/m3-desafio2
+	branch = main
+[submodule "m3-fundamentos-javascript/dg2-calculadora"]
+	path = m3-fundamentos-javascript/dg2-calculadora
+	url = https://github.com/NataMellado/m3-desafio3
+	branch = main
+[submodule "m3-fundamentos-javascript/de2-javascript-en-practica"]
+	path = m3-fundamentos-javascript/de2-javascript-en-practica
+	url = https://github.com/NataMellado/de2-javascript-en-practica
+	branch = main
+[submodule "m3-fundamentos-javascript/de3-arrays-y-objetos"]
+	path = m3-fundamentos-javascript/de3-arrays-y-objetos
+	url = https://github.com/NataMellado/de3-arrays-objetos
+	branch = main
+[submodule "m3-fundamentos-javascript/prueba-final"]
+	path = m3-fundamentos-javascript/prueba-final
+	url = https://github.com/NataMellado/prueba-encuentra-tu-superHero
+	branch = main
