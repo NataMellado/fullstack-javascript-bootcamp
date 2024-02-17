@@ -18,3 +18,7 @@
 	path = m3/de3-arrays-objetos
 	url = https://github.com/NataMellado/de3-arrays-objetos
 	branch = main
+[submodule "m3/prueba-encuentra-tu-superHero"]
+	path = m3/prueba-encuentra-tu-superHero
+	url = https://github.com/NataMellado/prueba-encuentra-tu-superHero
+	branch = main
