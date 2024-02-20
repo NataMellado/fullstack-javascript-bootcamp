@@ -22,3 +22,7 @@
 	path = m3-fundamentos-javascript/prueba-final
 	url = https://github.com/NataMellado/prueba-encuentra-tu-superHero
 	branch = main
+[submodule "m4-javascript-avanzado/de1-es6"]
+	path = m4-javascript-avanzado/de1-es6
+	url = https://github.com/NataMellado/de1-es6
+	branch = main
