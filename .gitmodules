@@ -34,3 +34,7 @@
 	path = m4-javascript-avanzado/do1-lista-animales
 	url = https://github.com/NataMellado/lista-animales
 	branch = main
+[submodule "m4-javascript-avanzado/do2-promesas"]
+	path = m4-javascript-avanzado/do2-promesas
+	url = https://github.com/NataMellado/do2-promesas
+	branch = main
