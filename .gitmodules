@@ -26,3 +26,11 @@
 	path = m4-javascript-avanzado/de1-es6
 	url = https://github.com/NataMellado/de1-es6
 	branch = main
+[submodule "m4-javascript-avanzado/de2-sugerencia-vídeos"]
+	path = m4-javascript-avanzado/de2-sugerencia-vídeos
+	url = https://github.com/NataMellado/sugerencia-de-videos
+	branch = main
+[submodule "m4-javascript-avanzado/do1-lista-animales"]
+	path = m4-javascript-avanzado/do1-lista-animales
+	url = https://github.com/NataMellado/lista-animales
+	branch = main
