@@ -38,3 +38,7 @@
 	path = m4-javascript-avanzado/do2-promesas
 	url = https://github.com/NataMellado/do2-promesas
 	branch = main
+[submodule "m4-javascript-avanzado/de3-traer-post"]
+	path = m4-javascript-avanzado/de3-traer-post
+	url = https://github.com/NataMellado/traer-post
+	branch = main
