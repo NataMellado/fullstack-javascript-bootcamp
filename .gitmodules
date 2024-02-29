@@ -42,3 +42,7 @@
 	path = m4-javascript-avanzado/de3-traer-post
 	url = https://github.com/NataMellado/traer-post
 	branch = main
+[submodule "m4-javascript-avanzado/prueba-final-m4"]
+	path = m4-javascript-avanzado/prueba-final-m4
+	url = https://github.com/NataMellado/prueba-final-m4
+	branch = main
