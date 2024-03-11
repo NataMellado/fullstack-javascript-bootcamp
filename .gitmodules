@@ -46,3 +46,7 @@
 	path = m4-javascript-avanzado/prueba-final-m4
 	url = https://github.com/NataMellado/prueba-final-m4
 	branch = main
+[submodule "m5-fundamentos-base-de-datos/de2-manipulacion-datos"]
+	path = m5-fundamentos-base-de-datos/de2-manipulacion-datos
+	url = https://github.com/NataMellado/de2-manipulacion-datos
+	branch = main
