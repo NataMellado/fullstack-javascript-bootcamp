@@ -54,3 +54,6 @@
 	path = m5-fundamentos-base-de-datos/de3-definicion-de-tablas
 	url = https://github.com/NataMellado/de3-definicion-de-tablas
 	branch = main
+[submodule "m6-desarollo-de-aplicaciones/de1-abracadabra"]
+	path = m6-desarollo-de-aplicaciones/de1-abracadabra
+	url = https://github.com/NataMellado/de1-abracadabra
