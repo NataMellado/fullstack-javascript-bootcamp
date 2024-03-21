@@ -57,3 +57,7 @@
 [submodule "m6-desarollo-de-aplicaciones/de1-abracadabra"]
 	path = m6-desarollo-de-aplicaciones/de1-abracadabra
 	url = https://github.com/NataMellado/de1-abracadabra
+[submodule "m6-desarollo-de-aplicaciones/de2-mercado-web"]
+	path = m6-desarollo-de-aplicaciones/de2-mercado-web
+	url = https://github.com/ElguetaM/DesafioMercadoWeb
+	branch = main
