@@ -61,3 +61,7 @@
 	path = m6-desarollo-de-aplicaciones/de2-mercado-web
 	url = https://github.com/ElguetaM/DesafioMercadoWeb
 	branch = main
+[submodule "m6-desarollo-de-aplicaciones/de3-citas-medicas"]
+	path = m6-desarollo-de-aplicaciones/de3-citas-medicas
+	url = https://github.com/NataMellado/de3-citas-medicas
+	branch = main
