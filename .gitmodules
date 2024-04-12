@@ -69,3 +69,7 @@
 	path = m7-acceso-a-datos-en-aplicaciones-node/de1-always-music
 	url = https://github.com/NataMellado/de1-always-music
 	branch = main
+[submodule "m6-desarollo-de-aplicaciones/de4-black-and-white"]
+	path = m6-desarollo-de-aplicaciones/de4-black-and-white
+	url = https://github.com/NataMellado/de4-black-and-white
+	branch = main
