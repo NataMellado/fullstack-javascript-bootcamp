@@ -81,3 +81,7 @@
 	path = m7-acceso-a-datos-en-aplicaciones-node/de2-always-music2
 	url = https://github.com/NataMellado/de2-always-music-v2
 	branch = main
+[submodule "m7-acceso-a-datos-en-aplicaciones-node/de3-mi-repertorio"]
+	path = m7-acceso-a-datos-en-aplicaciones-node/de3-mi-repertorio
+	url = https://github.com/NataMellado/de3-mi-repertorio
+	branch = main
