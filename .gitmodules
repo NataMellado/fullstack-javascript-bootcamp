@@ -73,3 +73,6 @@
 	path = m6-desarollo-de-aplicaciones/de4-black-and-white
 	url = https://github.com/NataMellado/de4-black-and-white
 	branch = main
+[submodule "m6-desarollo-de-aplicaciones/prueba-club-deportivo"]
+	path = m6-desarollo-de-aplicaciones/prueba-club-deportivo
+	url = https://github.com/NataMellado/prueba-club-deportivo
