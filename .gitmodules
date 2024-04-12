@@ -77,3 +77,7 @@
 	path = m6-desarollo-de-aplicaciones/prueba-club-deportivo
 	url = https://github.com/NataMellado/prueba-club-deportivo
 	branch = main
+[submodule "m7-acceso-a-datos-en-aplicaciones-node/de2-always-music2"]
+	path = m7-acceso-a-datos-en-aplicaciones-node/de2-always-music2
+	url = https://github.com/NataMellado/de2-always-music-v2
+	branch = main
