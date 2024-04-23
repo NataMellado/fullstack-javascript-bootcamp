@@ -85,3 +85,7 @@
 	path = m7-acceso-a-datos-en-aplicaciones-node/de3-mi-repertorio
 	url = https://github.com/NataMellado/de3-mi-repertorio
 	branch = main
+[submodule "m7-acceso-a-datos-en-aplicaciones-node/prueba-banco-solar"]
+	path = m7-acceso-a-datos-en-aplicaciones-node/prueba-banco-solar
+	url = https://github.com/NataMellado/prueba-banco-solar
+	branch = main
