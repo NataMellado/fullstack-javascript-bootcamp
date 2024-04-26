@@ -89,3 +89,7 @@
 	path = m7-acceso-a-datos-en-aplicaciones-node/prueba-banco-solar
 	url = https://github.com/NataMellado/prueba-banco-solar
 	branch = main
+[submodule "m8-implementacion-de-API/de2-fbi"]
+	path = m8-implementacion-de-API/de2-fbi
+	url = https://github.com/NataMellado/de2-fbi
+	branch = main
