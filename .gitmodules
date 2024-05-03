@@ -93,3 +93,7 @@
 	path = m8-implementacion-de-API/de2-fbi
 	url = https://github.com/NataMellado/de2-fbi
 	branch = main
+[submodule "m8-implementacion-de-API/prueba-skate-park"]
+	path = m8-implementacion-de-API/prueba-skate-park
+	url = https://github.com/NataMellado/prueba-skate-park
+	branch = main
